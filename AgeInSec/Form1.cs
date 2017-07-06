@@ -34,7 +34,30 @@ namespace AgeInSec
                 DateTime date = dateTimePicker1.Value.Date;
                 DateTime now = DateTime.Now;
                 TimeSpan a = now - date;
-                seconds_textBox.Text = Math.Round( a.TotalSeconds,0).ToString();
+                if (a.TotalSeconds < 0)
+                {
+
+                    string message = "Somethig gone wrong, do you want try again";
+                    string caption = "Nobody can be born in future.";
+                    MessageBoxButtons buttons = MessageBoxButtons.YesNo;
+                    DialogResult result;
+
+                    result = MessageBox.Show(message, caption, buttons);
+
+                    if (result == System.Windows.Forms.DialogResult.No)
+                    {
+                        // Closes the parent form.
+                        this.Close();
+                    }
+                    if (result == System.Windows.Forms.DialogResult.Yes)
+                    {
+                        seconds_textBox.Text = "";
+                    }
+                }
+                else
+                {
+                    seconds_textBox.Text = Math.Round(a.TotalSeconds, 0).ToString();
+                }
             }
         }
 

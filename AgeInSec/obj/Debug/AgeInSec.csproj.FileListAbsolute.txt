@@ -7,3 +7,12 @@ D:\Programy\C#\AgeInSec\AgeInSec\obj\Debug\AgeInSec.Properties.Resources.resourc
 D:\Programy\C#\AgeInSec\AgeInSec\obj\Debug\AgeInSec.csproj.GenerateResource.Cache
 D:\Programy\C#\AgeInSec\AgeInSec\obj\Debug\AgeInSec.exe
 D:\Programy\C#\AgeInSec\AgeInSec\obj\Debug\AgeInSec.pdb
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\bin\Debug\AgeInSec.exe.config
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\obj\Debug\AgeInSec.exe
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\obj\Debug\AgeInSec.pdb
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\bin\Debug\AgeInSec.exe
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\bin\Debug\AgeInSec.pdb
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\obj\Debug\AgeInSec.csprojResolveAssemblyReference.cache
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\obj\Debug\AgeInSec.Form1.resources
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\obj\Debug\AgeInSec.Properties.Resources.resources
+D:\Programy\Repozytorium\AgeInSeconds\AgeInSec\obj\Debug\AgeInSec.csproj.GenerateResource.Cache
